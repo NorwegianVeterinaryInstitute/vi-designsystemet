@@ -1,0 +1,22 @@
+{
+  "$schema": "https://designsystemet.no/schemas/config/1.24.0.json",
+  "output": ["design-tokens", "css"],
+  "themes": {
+    "vi-light": {
+      "colors": {
+        "vann": "#1C4FB9",
+        "jord": "#59CD8B",
+        "luft": "#D7F4FF",
+        "neutral": "#091A3E"
+      },
+      "overrides": {
+        "severity": {
+          "info": "#1C4FB9",
+          "success": "#59CD8B",
+          "warning": "#FCA446",
+          "danger": "#FF5447"
+        }
+      }
+    }
+  }
+}

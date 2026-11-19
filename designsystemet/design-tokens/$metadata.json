@@ -1,0 +1,26 @@
+{
+  "tokenSetOrder": [
+    "primitives/globals",
+    "primitives/modes/size/small",
+    "primitives/modes/size/medium",
+    "primitives/modes/size/large",
+    "primitives/modes/size/global",
+    "primitives/modes/typography/size/small",
+    "primitives/modes/typography/size/medium",
+    "primitives/modes/typography/size/large",
+    "primitives/modes/typography/primary/vi-light",
+    "primitives/modes/typography/secondary/vi-light",
+    "primitives/modes/color-scheme/dark/vi-light",
+    "primitives/modes/color-scheme/light/vi-light",
+    "themes/vi-light",
+    "semantic/color/vann",
+    "semantic/color/jord",
+    "semantic/color/luft",
+    "semantic/color/neutral",
+    "semantic/color/info",
+    "semantic/color/success",
+    "semantic/color/warning",
+    "semantic/color/danger",
+    "semantic/style"
+  ]
+}
